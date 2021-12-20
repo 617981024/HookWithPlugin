@@ -1,0 +1,4 @@
+#Tue Dec 21 00:35:57 CST 2021
+base.0=/Users/kontrol/Documents/work/HostWithPlugin/jd/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

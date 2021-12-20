@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4225ff9eb35dacb3a7ac7f56f58d1335/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [:mylibrary] /Users/kontrol/Documents/work/HostWithPlugin/mylibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/07c99f056fce27b709ac0f0732e8435d/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c043d65dc46a98cb2fc5cf3ba4bfb659/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/a79c586f7342a8a246d4324170d5db07/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/82873ded3dcc0ea2234525922786889d/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/d1ca7cd3905794bed09cb92934ccd6c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4276267baf989d651cf25177c247ad49/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/cee736d2e38554b625c1833356f21557/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/6b7bb210aa4c5b3406ca52478aa7b416/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/777e3ef3de29941a170000348d67a056/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/163582a48cc794a0edad8bfa0d7f7e60/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/d94ed1db19c807f67f800086cc9fb572/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4af3517d3f5edf423ad48b2331050642/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c627b463ac8e0197fd385fe1d2e98bef/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/6578b338a50e8834e86475e8036b1bb3/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4cee4734b336f81c686d6e7b16dafec9/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c2e7196fa5a9fc8ea47e5226a4dff583/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4225ff9eb35dacb3a7ac7f56f58d1335/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4225ff9eb35dacb3a7ac7f56f58d1335/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/cee736d2e38554b625c1833356f21557/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/cee736d2e38554b625c1833356f21557/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4af3517d3f5edf423ad48b2331050642/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4af3517d3f5edf423ad48b2331050642/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/cee736d2e38554b625c1833356f21557/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.hostapk.MainActivity
+ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4225ff9eb35dacb3a7ac7f56f58d1335/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4225ff9eb35dacb3a7ac7f56f58d1335/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [:mylibrary] /Users/kontrol/Documents/work/HostWithPlugin/mylibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:mylibrary] /Users/kontrol/Documents/work/HostWithPlugin/mylibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/07c99f056fce27b709ac0f0732e8435d/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/07c99f056fce27b709ac0f0732e8435d/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c043d65dc46a98cb2fc5cf3ba4bfb659/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c043d65dc46a98cb2fc5cf3ba4bfb659/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/a79c586f7342a8a246d4324170d5db07/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/a79c586f7342a8a246d4324170d5db07/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/82873ded3dcc0ea2234525922786889d/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/82873ded3dcc0ea2234525922786889d/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/d1ca7cd3905794bed09cb92934ccd6c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/d1ca7cd3905794bed09cb92934ccd6c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4276267baf989d651cf25177c247ad49/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4276267baf989d651cf25177c247ad49/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/cee736d2e38554b625c1833356f21557/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/cee736d2e38554b625c1833356f21557/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/6b7bb210aa4c5b3406ca52478aa7b416/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/6b7bb210aa4c5b3406ca52478aa7b416/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/777e3ef3de29941a170000348d67a056/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/777e3ef3de29941a170000348d67a056/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/163582a48cc794a0edad8bfa0d7f7e60/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/163582a48cc794a0edad8bfa0d7f7e60/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/d94ed1db19c807f67f800086cc9fb572/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/d94ed1db19c807f67f800086cc9fb572/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4af3517d3f5edf423ad48b2331050642/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4af3517d3f5edf423ad48b2331050642/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c627b463ac8e0197fd385fe1d2e98bef/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c627b463ac8e0197fd385fe1d2e98bef/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/6578b338a50e8834e86475e8036b1bb3/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/6578b338a50e8834e86475e8036b1bb3/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4cee4734b336f81c686d6e7b16dafec9/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/4cee4734b336f81c686d6e7b16dafec9/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c2e7196fa5a9fc8ea47e5226a4dff583/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/c2e7196fa5a9fc8ea47e5226a4dff583/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+		ADDED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml
+		INJECTED from /Users/kontrol/Documents/work/HostWithPlugin/HostApk/src/main/AndroidManifest.xml

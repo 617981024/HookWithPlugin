@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.jd"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:5:5-19:19
+12        android:allowBackup="true"
+12-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.6.0] /Users/kontrol/.gradle/caches/transforms-2/files-2.1/b8653113bb402d69217b623468746a00/core-1.6.0/AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:10:9-35
+18        android:theme="@style/AppTheme" >
+18-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:11:9-40
+19        <activity android:name="com.example.jd.MainActivity" >
+19-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:12:9-18:20
+19-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:12:19-47
+20            <intent-filter>
+20-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:13:13-17:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:14:17-69
+21-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:14:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:16:17-77
+23-->/Users/kontrol/Documents/work/HostWithPlugin/jd/src/main/AndroidManifest.xml:16:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

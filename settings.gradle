@@ -1,0 +1,2 @@
+include ':HostApk', ':jd', ':mylibrary'
+rootProject.name = "HostWithPlugin"
